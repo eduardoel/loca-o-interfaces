@@ -4,8 +4,8 @@ import java.util.Date;
 
 public class CarRental {
     
-    private Date start;
-    private Date finish;
+    private Date start; //Inicio
+    private Date finish; //Fim
     
     private Vehicle vehicle;
     private Invoice invoice;
